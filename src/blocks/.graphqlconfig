@@ -1,0 +1,15 @@
+{
+  "name": "BSC Blocks",
+  "schemaPath": "schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "BSC Blocks": {
+        "url": "https://graph.chipsfryer.world/subgraphs/name/blockartist/bsc-blocks",
+        "headers": {
+          "user-agent": "JS GraphQL"
+        },
+        "introspect": false
+      }
+    }
+  }
+}
